@@ -1,0 +1,7 @@
+suc<xml><ToUserName><![CDATA[gh_c1c4ee007b6b]]></ToUserName>
+<FromUserName><![CDATA[ogaJbt_k9RPUSjMSOtKn1_T83YUo]]></FromUserName>
+<CreateTime>1418194724</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[医学]]></Content>
+<MsgId>6091099959141699632</MsgId>
+</xml>

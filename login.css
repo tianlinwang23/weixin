@@ -1,0 +1,256 @@
+body{
+ 
+  font-size: 20px;
+  font-family:"Microsoft YaHei";
+}
+
+a:hover{
+  color:#666;
+}
+.login-head{
+  margin-bottom:  20px;
+}
+.login{
+  padding:50px 0 100px 0;
+  width:100%;
+  margin:0 auto;
+  
+}
+.bg{
+  background-image: url(bg.jpg) ;
+  background-repeat: no-repeat;
+  background-size:100% 100%;  
+}
+.login-head{
+  width:100%;
+  text-align: center;
+}
+h1{
+color: rgb(242,151,32);
+font-family:"Microsoft YaHei";
+}
+.login-head img{
+  width:270px;
+  height:35px;
+}
+.f_component{
+width:100%;
+overflow:hidden;
+}
+.test {
+float:left;
+			width:50%;
+			margin-top:25px;
+			margin-right:2%;
+			text-align:right; 
+			text-justify : distribute-all-lines;  
+}
+#inhos{
+width:35%;
+}
+#outhos{
+width:35%;
+}
+.test1 {
+			float:left;
+			width:30%;
+			margin-top:25px;
+			margin-right:2%;
+			text-align:right; 
+			text-justify : distribute-all-lines;  
+  
+  }
+  .test2 {
+  font-size: 14px;
+	text-align:center;
+  }
+.information{
+  border:1px solid #ccc;
+  width:65%;
+  height: 36px;
+  color:#999;
+  font-size: 20px;
+  line-height: 36px;
+  margin-top: 15px;
+  border-radius: 5px;
+  text-indent: 10px;
+  font-family:"Microsoft YaHei";
+  float:left;
+}
+.other{
+border:1px solid #ccc;
+  width:65%;
+  height: 36px;
+  color:#999;
+  font-size: 20px;
+  line-height: 36px;
+  margin-top: 15px;
+  border-radius: 5px;
+  text-indent: 10px;
+  font-family:"Microsoft YaHei";
+  float:left;
+margin-left: 32%;
+}
+.yiyuan{
+	border:1px solid #ccc;
+  width:45%;
+  height: 36px;
+  color:#999;
+  font-size: 20px;
+  line-height: 36px;
+  margin-top: 15px;
+  border-radius: 5px;
+  text-indent: 10px;
+  font-family:"Microsoft YaHei";
+  float:left;
+}
+#place_c{
+margin-left: 32%;
+}
+.search{
+width:20%;
+float:left;
+margin-top: 20px;
+height:30px;
+}
+.message{
+  border:1px solid #ccc;
+  width:65%;
+  color:#999;
+  font-size: 20px;
+  line-height: 36px;
+  margin-top: 15px;
+  border-radius: 5px;
+  text-indent: 10px;
+  font-family:"Microsoft YaHei";
+  float:left;
+}
+.other_inf{
+margin-top:15px;
+font-size: 20px;
+line-height: 36px;
+color:#999;
+text-align:center;
+width:100%
+}
+.imp_inf{
+overflow:hidden;
+margin-top:15px;
+}
+.imp_inf span{
+font-size:10px;
+width:100%;
+float:left;
+}
+.imp_inf p{
+font-size:10px;
+width:87%;
+float:left;
+margin-left:11%;
+}
+.where{
+width:30%;
+padding-top:15px;
+overflow:hidden;
+height:40px;
+float:left
+
+}
+.where p{
+width:40%;
+float:left;
+text-align:right;
+font-size:20px;
+padding-top:5px;
+}
+.where input{
+width:30%;
+float:right;
+height:25px;
+}
+.co-login{
+  padding:10px 0;
+}
+.co-login p,.remember_pass{
+  height:24px;
+  line-height: 24px;
+  font-size: 16px;
+}
+.weibo-login{
+  padding:5px 0;
+}
+.weibo-login a{
+  margin-right: 10px;
+}
+.weibo-login a img{
+  width:24px;
+  height:24px;
+}
+
+.buttons button,.register-button{
+  background: rgb(172,11,3);
+  border-radius: 5px;
+  width:100%;
+  height:36px;
+  line-height: 36px;
+  text-align: center;
+  color:#fff;
+  font-weight: bold;
+  margin-bottom: 15px;
+  font-size: 24px;
+  border:none;
+ font-family:"Microsoft YaHei"
+}
+
+.buttons span{
+  padding: 0 10px;
+}
+.register-buttons{
+  padding-top:  20px;
+}
+.buttons li.register{
+  background: #c0e8e8;
+}
+.register-bottom a,.register-bottom span{
+  color:#FD6639;
+  font-weight: bold;
+  font-size: 20px;
+}
+.warning{
+  padding-top:20px; 
+  color:#dd4b39;
+}
+
+
+
+.summary{
+margin-top:120px;
+}
+.summary span{
+
+font-size:26px;
+font-family:"华文仿宋";
+font-weight:bold;
+}
+.huiyuan_p{
+margin-top:20px;
+float: left;
+width: 30%;
+margin-left:30%
+}
+.huiyuan_i{
+margin-top:20px;
+width: 65%;
+float:left;
+}
+#backTop {
+display: none;
+cursor: pointer;
+position: fixed;
+text-decoration: none;
+left: 7px;
+bottom: 30px;
+width: 37px;
+height: 38px;
+background: url("http://wx.yxj.org.cn/activity/sign/image/result-huge-bg_1205.png") no-repeat scroll 1px 0px transparent;
+}
